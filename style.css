@@ -1,0 +1,16 @@
+html{
+    background-color: rgba(16, 209, 219, 0.712);
+}
+div{
+    text-align: center;
+}
+#pic{
+    width: 500px;
+    border: 2px solid black;
+
+}
+h1{
+    text-align: center;
+    color: rgba(0, 0, 0, 0.703);
+    font-family: 'Dancing Script', cursive;
+}
